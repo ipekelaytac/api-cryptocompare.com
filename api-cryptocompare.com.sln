@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-cryptocompare.com", "api-cryptocompare.com\api-cryptocompare.com.csproj", "{B1873522-29E7-4640-8E89-D5088D123E76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1873522-29E7-4640-8E89-D5088D123E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1873522-29E7-4640-8E89-D5088D123E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1873522-29E7-4640-8E89-D5088D123E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1873522-29E7-4640-8E89-D5088D123E76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C816EC77-3520-44A1-AABA-BCA5617F587D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://78.111.98.70:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = api-cryptocompare.com\\api-cryptocompare.com.csproj
+		SccProjectName1 = api-cryptocompare.com
+		SccLocalPath1 = api-cryptocompare.com
+	EndGlobalSection
+EndGlobal
